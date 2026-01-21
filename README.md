@@ -1,23 +1,29 @@
 ﻿<div align="center">
-  <h1>SeamlessUniverse</h1>
+  <img src="icon.png" alt="SeamlessUniverse Icon" width="128" />
+  <h1>SeamlessUniverse-MC</h1>
   <p>
-    <strong>Infinite, loading-free exploration across dimensions</strong>
+    <strong>Infinite Loading-Free Dimension Travel & Exploration</strong>
   </p>
   
-  ![Status](https://img.shields.io/badge/Status-Active-success)
-  ![License](https://img.shields.io/badge/License-Proprietary-red)
+  ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-61DAFB?style=flat&logo=minecraft&logoColor=green)
+  ![Fabric](https://img.shields.io/badge/Fabric-API-F8D866?style=flat)
+  ![Status](https://img.shields.io/badge/Status-In--Development-yellow)
 
   <br />
 </div>
 
-**SeamlessUniverse** is a specialized project part of the Dxrmy ecosystem, designed for performance and reliability.
+**SeamlessUniverse** aims to remove the "portal divide" in Minecraft. It enables players to travel between dimensions and distant areas without loading screens, creating a truly unified world.
 
-## Status
-- [x] **Initial Release**: Basic functionality implemented.
-- [/] **Ongoing Development**: Active improvements and feature additions.
+## Features
+- 🌌 **Zero-Load Portals**: Step through gates and into new worlds instantly.
+- 🔭 **Inter-dimensional Perspective**: See the other side of a portal before you step through.
+- 🚀 **Asynchronous Chunk Loading**: Advanced pre-fetching to ensure the universe never stops.
+- 📡 **Multi-World Sync**: Maintains entity and world state across dimension boundaries.
 
-## Installation
-*Refer to project-specific documentation for build and installation instructions.*
+## Tech Stack
+- **Mod Loader**: Fabric API (1.21.11)
+- **Streaming**: Custom Asynchronous Chunk-Loader
+- **Culling**: Advanced occlusion for portal previews
 
 ## 📄 License
-All rights reserved.
+All rights reserved. Dxrmy Ecosystem.
