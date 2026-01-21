@@ -2,28 +2,22 @@
   <img src="icon.png" alt="SeamlessUniverse Icon" width="128" />
   <h1>SeamlessUniverse-MC</h1>
   <p>
-    <strong>Infinite Loading-Free Dimension Travel & Exploration</strong>
+    <strong>A Vertically Integrated Minecraft Universe</strong>
   </p>
   
   ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-61DAFB?style=flat&logo=minecraft&logoColor=green)
-  ![Fabric](https://img.shields.io/badge/Fabric-API-F8D866?style=flat)
-  ![Status](https://img.shields.io/badge/Status-In--Development-yellow)
+  ![Dimensions](https://img.shields.io/badge/World-Layered-blue)
 
   <br />
 </div>
 
-**SeamlessUniverse** aims to remove the "portal divide" in Minecraft. It enables players to travel between dimensions and distant areas without loading screens, creating a truly unified world.
+**SeamlessUniverse** redefines the spatial architecture of Minecraft. Moving beyond standard portals, it creates a vertically unified world where dimensions exist as literal layers of the universe.
 
-## Features
-- 🌌 **Zero-Load Portals**: Step through gates and into new worlds instantly.
-- 🔭 **Inter-dimensional Perspective**: See the other side of a portal before you step through.
-- 🚀 **Asynchronous Chunk Loading**: Advanced pre-fetching to ensure the universe never stops.
-- 📡 **Multi-World Sync**: Maintains entity and world state across dimension boundaries.
-
-## Tech Stack
-- **Mod Loader**: Fabric API (1.21.11)
-- **Streaming**: Custom Asynchronous Chunk-Loader
-- **Culling**: Advanced occlusion for portal previews
+## The Vertical Design
+- 🌑 **The Nether Below**: The Nether is now the literal foundation of the world, located far beneath the Overworld's bedrock.
+- 🏛️ **The Aether Above**: Built-in compatibility with the Aether mod, placing the heavenly islands directly in the sky above the Overworld.
+- 🌌 **The End / The Abyss**: The End exists as a terrifying abyss, reminiscent of the "Upside Down," waiting beneath the deepest shadows.
+- ⚡ **Seamless Transitions**: Move between these layers without loading screens, creating a single, continuous world.
 
 ## 📄 License
-All rights reserved. Dxrmy Ecosystem.
+MIT License
