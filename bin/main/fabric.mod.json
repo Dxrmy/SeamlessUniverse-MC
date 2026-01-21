@@ -1,0 +1,31 @@
+{
+    "schemaVersion": 1,
+    "id": "seamless",
+    "version": "${version}",
+    "name": "The Seamless Universe",
+    "description": "Physically stacks the dimensions so you can dig or fly between them.",
+    "authors": [
+        "Eni"
+    ],
+    "contact": {
+        "homepage": "https://example.com/",
+        "sources": "https://github.com/username/SeamlessUniverse"
+    },
+    "license": "All Rights Reserved",
+    "icon": "assets/seamless/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.eni.seamless.SeamlessMod"
+        ]
+    },
+    "mixins": [
+        "seamless.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.16.5",
+        "minecraft": "~1.21.1",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}
